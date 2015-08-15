@@ -10,9 +10,9 @@ contact: static
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
+  secondary: bc188a #2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
-  tertiary: bc1838 #CC0033
+  tertiary: bc1838 #CC0033 red hyperlinks
 
 # Footer settings
 footer:

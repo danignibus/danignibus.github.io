@@ -22,8 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    /*color: #{{ site.color.tertiary }};*/
-    color: #00CED1;
+    color: #{{ site.color.tertiary }};
 }
 
 h1,
