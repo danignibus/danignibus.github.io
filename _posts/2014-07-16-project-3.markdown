@@ -2,11 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: theD.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: As a developer in the <a href="http://dali.dartmouth.edu/">DALI lab</a> over the summer of 2015, I worked with a team to redesign the entire Dartmouth newspaper website and create a custom Wordpress theme for the site. The project is budgeted to be completed within the next term, and as a result the site is not live. The mockup of a sample category page I developed is posted above!
 
 ---
