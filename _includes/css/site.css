@@ -1,9 +1,13 @@
-.modal-open .modal {
+/*.modal-open .modal {
     overflow-x: auto; 
     overflow-y: auto;
-}
+}*/
 /*
 .modal-open {
     overflow-x: auto; 
     overflow-y: auto;
 }*/
+
+.portfolio-modal .modal-content img {
+	max-height: 400px;
+}
