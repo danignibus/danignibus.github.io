@@ -1,6 +1,6 @@
 .modal-open .modal {
     overflow-x: auto; 
-    overflow-y: auto;
+    overflow-y: scroll;
 }
 /*
 .modal-open {
