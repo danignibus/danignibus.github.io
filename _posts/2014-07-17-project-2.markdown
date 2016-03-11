@@ -6,6 +6,7 @@ img: NeedOne.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+title: Big Green Apps
 category: Web Development
 description: I'm currently working with a group of Dartmouth students to develop an iOS/Android application that will ease coordination of Dartmouth activities ranging from meals to pong to hikes to workouts. I've been responsible for backend database implementation (Django) and front-end Android application development. Take a look at my <a href="https://gist.github.com/danignibus/2d57237bbe2966f17193">gist</a> for my Needone backend Django work!
 

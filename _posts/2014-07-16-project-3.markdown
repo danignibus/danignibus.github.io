@@ -4,9 +4,9 @@ modal-id: 3
 date: 2014-07-16
 img: theD.png
 alt: image-alt
+title: DALI Lab
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: As a developer in the <a href="http://dali.dartmouth.edu/">DALI lab</a> over the summer of 2015, I worked with a team to redesign the entire Dartmouth newspaper website and create a custom Wordpress theme for the site. The project is budgeted to be completed within the next term, and as a result the site is not live. The mockup of a sample category page I developed is posted above!
-
+description: As a developer in the <a href="http://dali.dartmouth.edu/">DALI lab</a> over the summer of 2015, I worked with a team to redesign the entire Dartmouth newspaper website and create a custom Wordpress theme for the site. The project is budgeted to be completed within the next term, and as a result the site is not live. The mockup of a sample category page I developed can be viewed <a href="https://drive.google.com/file/d/0ByMBKihtouPWUEN4X1ZYNHdoX2c/view?usp=sharing">here!</a>
 ---

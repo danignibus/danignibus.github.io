@@ -6,7 +6,7 @@ img: ontime.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
+title: OnTime
 category: Web Development
-description: Culminating group project for my Android development class, Winter 2015. We developed this app as a means of location coordination and management, to help you and all your friends arrive at a destination at the same time. Take a look at my <a href="https://gist.github.com/danignibus/2f70dce1b59f6ab3f4a0">gist</a> for my implementation of the events screen of the app!
-
+description: I created OnTime with a group of three other Dartmouth students in Winter 2015. The app is used for location coordination and management, to help a group of event participants all arrive at a destination at the same time. Take a look at my <a href="https://gist.github.com/danignibus/2f70dce1b59f6ab3f4a0">gist</a> for my implementation of the events screen of the app. A link to the webpage we developed for the app is available <a href="http://ontime.instapage.com/">here.</a>
 ---
